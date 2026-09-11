@@ -1,0 +1,19 @@
+# Dataset
+data.csv
+data_cleaned.csv
+*.csv
+
+# Output & cache
+outputs/
+.agents/
+__pycache__/
+__init__.py
+*.pyc
+notebooks/
+extract_colab.py
+prd.md
+requirements.txt
+solve_colab.py
+colab_questions.md
+colab_notebook.ipynb
+build_notebook.py

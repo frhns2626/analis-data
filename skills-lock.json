@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "data-analysis-jupyter": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "data-analysis-jupyter/SKILL.md",
+      "computedHash": "b287cbbb3eb8fa54e93571dc2eea56c07cdcd8d1f85be16954e612c92cc76ac0"
+    },
+    "exploratory-data-analysis": {
+      "source": "davila7/claude-code-templates",
+      "sourceType": "github",
+      "skillPath": "cli-tool/components/skills/scientific/exploratory-data-analysis/SKILL.md",
+      "computedHash": "ecbe35035e3598bbb055e69b90fba121de28a6f5e4309757c5c5e4a1e01fe423"
+    }
+  }
+}
