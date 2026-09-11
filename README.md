@@ -125,7 +125,7 @@ Pipeline pada [`src/data_loader.py`](src/data_loader.py) menambahkan fitur-fitur
 - `has_negative_net_sales`: Penanda transaksi dengan nilai kas masuk negatif (*cashback* trade-in).
 - Optimasi tipe data: Kolom berulang dikonversi ke tipe `category` untuk efisiensi memori.
 
----
+------
 
 ## 🚀 Panduan Memulai & Cara Menjalankan
 
